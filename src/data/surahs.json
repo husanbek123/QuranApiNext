@@ -1,32 +1,62 @@
 [
   {
-    "video": "Hello"
+    "name_uz": "Fotiha",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/KiUoSScg1A0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Ochuvchi", "Ochilish"],
+    "numberOfAyahs": 7
   },
   {
-    "video": "Hello"
+    "name_uz": "Baqara",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/iXqw8E2Y27s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Sigir"],
+    "numberOfAyahs": 286
   },
   {
-    "video": "Hello"
+    "name_uz": "Oli Imron",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/PP0M6otGf9U' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Imronning oilasi"],
+    "numberOfAyahs": 200
   },
   {
-    "video": "Hello"
+    "name_uz": "An-Nisa",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/YfTvNAC5IHM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Ayollar"],
+    "numberOfAyahs": 176
   },
   {
-    "video": "Hello"
+    "name_uz": "Moida",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/PP0M6otGf9U' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Dasturxon"],
+    "numberOfAyahs": 120
   },
   {
-    "video": "Hello"
+    "name_uz": "An'om",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/H5pyBTkiusY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Chorva Mollari"],
+    "numberOfAyahs": 165
   },
   {
-    "video": "Hello"
+    "name_uz": "Arof",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/vN0TdHvsHsQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Arasot", "Jannat va jahannam orasidagi devor"],
+    "numberOfAyahs": 206
   },
   {
-    "video": "Hello"
+    "name_uz": "Anfol",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/zOI1V8wT5gM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["O'ljalar"],
+    "numberOfAyahs": 75
   },
   {
-    "video": "Hello"
+    "name_uz": "Tavba",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/np1xKFNBmUs' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": ["Boshqa nomi Baroat - oraning ochiqligi"],
+    "numberOfAyahs": 129
   },
   {
-    "video": "Hello"
+    "name_uz": "Yunus",
+    "video_uz": "<iframe width='560' height='315' src='https://www.youtube.com/embed/VEMUl6j6In0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>",
+    "meaning_uz": [""],
+    "numberOfAyahs": 109
   }
 ]
